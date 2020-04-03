@@ -1,5 +1,6 @@
 # JSON post request receiver by Python + Flask
 
+Notes
 * To run Python + Flask server locally, "server.py".
 * To run JSON post request client locally, "client.py".
 * JSON post request result will be saved in /jsonpost folder.
