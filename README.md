@@ -10,3 +10,6 @@ Dockerization
 * docker build -t easonlai/pyjsonreceiver .
 * docker run -p 5000:5000 easonlai/pyjsonreceiver
 * docker exec -it e5517f5977ba bash <- Interactive login into container and check the result folder /jsonpost.
+* docker push easonlai/pyjsonreceiver
+
+https://hub.docker.com/repository/docker/easonlai/pyjsonreceiver
